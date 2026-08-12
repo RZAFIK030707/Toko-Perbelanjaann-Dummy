@@ -1,0 +1,25 @@
+{
+  "name": "nusa-market-dummy",
+  "version": "1.0.0",
+  "description": "Situs demo Nusa Market dengan formulir kontak dan server API sederhana.",
+  "main": "js/server.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node js/server.js",
+    "dev": "nodemon js/server.js",
+    "test": "echo \"Tidak ada tes yang tersedia saat ini\" && exit 0"
+  },
+  "keywords": [
+    "belanja",
+    "market",
+    "node",
+    "frontend",
+    "backend",
+    "contact"
+  ],
+  "author": "Nusa Market",
+  "license": "MIT",
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
